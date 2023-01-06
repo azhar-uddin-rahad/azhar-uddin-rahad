@@ -211,10 +211,8 @@ g.typingUnderline rect {
 </text>
 
 <text x="22" y="12" font-family="Helvetica" font-size=".22em"
-      fill="#AAA" font-weight="bold"> 
-      I'm Azhar. Nice to Meet You.:blush:Nice to Meet You.
-<img src="https://github.com/PluckyPrecious/PluckyPrecious/blob/9565cf79245d4787c6fcade1bda5ceb011d287cd/F25AC92B-312E-4CD7-A884-AD0FDEC99A80.jpeg" alt="banner that says Kelechi Precious Nwachukwu - code newbie always. content curator. contributing for good alongside an oil paint illustration of Kelechi">
-  
+      fill="black" font-weight="bold"> 
+      I'm Azhar. Nice to Meet You!
 </text>
 
 
