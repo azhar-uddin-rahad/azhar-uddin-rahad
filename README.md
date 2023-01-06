@@ -1,9 +1,9 @@
 <img src="header_en.svg"></img>
 
 <table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="pngegg (2).png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+ <tr><td><a href="README.md"><img src="us-flag (1).png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="bd-1.png" height="13"> Bangla</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="in-2.png" height="13"> Hindi</a></td></tr>
 </table>
 ### Hi there 👋
 
