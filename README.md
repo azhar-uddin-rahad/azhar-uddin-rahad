@@ -1,4 +1,12 @@
+<img src="images/svg/header_en.svg"></img>
+
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+</table>
 ### Hi there 👋
+
 
 # 💫 About Me:
 🔭 I’m currently working on the MERN stack development<br>👯 I’m looking to collaborate on Smile Creator<br>🤝I'm looking for a MERN stack developer job <br>🌱 I’m currently learning  JavaScript and MERN stack  Technology <br>💬 Ask me about anything tech related, I am happy to help;<br>⚡ Most of my projects are available on GitHub<br>
