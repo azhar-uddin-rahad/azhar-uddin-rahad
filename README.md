@@ -6,7 +6,8 @@
  <tr><td><a href="README_pt.md"><img src="in-2.png" height="13"> Hindi</a></td></tr>
 </table>
 
-
+I completed a diploma in Engineering from the ICST in Computer Science. I am working on a MARN STACK Development. I consider myself hardworking, a fast learner, helpful, and honest. To achieve my goal through hard work. exploring the front & back end of the web, can't be caught in the middle.😉
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source
 
 # 💫 About Me:
 🔭 I’m currently working on the MERN stack development<br>👯 I’m looking to collaborate on Smile Creator<br>🤝I'm looking for a MERN stack developer job <br>🌱 I’m currently learning  JavaScript and MERN stack  Technology <br>💬 Ask me about anything tech related, I am happy to help;<br>⚡ Most of my projects are available on GitHub<br>
