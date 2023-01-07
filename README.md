@@ -5,7 +5,7 @@
  <tr><td><a href="README_fr.md"><img src="bd-1.png" height="13"> Bangla</a></td></tr>
  <tr><td><a href="README_pt.md"><img src="in-2.png" height="13"> Hindi</a></td></tr>
 </table>
-### Hi there 👋
+
 
 
 # 💫 About Me:
